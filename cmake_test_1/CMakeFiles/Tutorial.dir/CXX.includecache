@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mark-music/Extra_programs/cmake_test/cmake_test_1/./include/TutorialConfig.h
+
+/home/mark-music/Extra_programs/cmake_test/cmake_test_1/tutorial.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+./include/TutorialConfig.h
+/home/mark-music/Extra_programs/cmake_test/cmake_test_1/./include/TutorialConfig.h
+

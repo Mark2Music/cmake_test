@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mark-music/Extra_programs/cmake_test/cmake_test_2/MathFunctions/mysqrt.cpp
+MathFunctions.h
+/home/mark-music/Extra_programs/cmake_test/cmake_test_2/MathFunctions/MathFunctions.h
+
+MathFunctions.h
+

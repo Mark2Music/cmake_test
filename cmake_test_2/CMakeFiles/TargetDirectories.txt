@@ -1,0 +1,2 @@
+/home/mark-music/Extra_programs/cmake_test/cmake_test_2/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/mark-music/Extra_programs/cmake_test/cmake_test_2/CMakeFiles/Tutorial.dir
